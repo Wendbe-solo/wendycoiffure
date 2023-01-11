@@ -726,9 +726,9 @@ a:focus {
 }
 
 .client_section .box .img_container .img-box .img_box-inner {
-  width: 150px;
-  height: 150px;
-  border-radius: 100%;
+  width: 290px;
+  height: 350px;
+  border-radius: 60%;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
